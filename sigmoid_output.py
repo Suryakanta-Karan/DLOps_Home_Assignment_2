@@ -1,4 +1,4 @@
-# sigmoid_output.py.
+# sigmoid_output.py.....
 from activation_functions import sigmoid
 import numpy as np
 
